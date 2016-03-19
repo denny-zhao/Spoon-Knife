@@ -1,1 +1,3 @@
 requirements
+Need java
+Need Python
